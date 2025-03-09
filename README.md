@@ -1,0 +1,1 @@
+The purpose of this program was to write and implement a Merge Sort from scratch to better understand how the Command and Conquer algorithm works. Additionally the complexity of the algorithm was analyzed and compared to other sorting algorithms such as Insertion, Bubble, and Selection Sorts.
